@@ -1,50 +1,4 @@
-.. title:: Nutanix Global Tech Summit 2021
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Event Info
-   :name: _info
-   :hidden:
-
-   info/details
-   info/help
-   info/validate
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Hybrid Cloud IaaS
-   :name: _hybridiaas
-   :hidden:
-
-   snow/gettingstarted/gettingstarted
-   snow/policies/policies
-   snow/snowcalm/snowcalm
-   snow/migration/migration
-   snow/alerts/alerts
-   snow/webhook/webhook
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Hybrid Cloud Database Management
-   :name: _hybrideuc
-   :hidden:
-
-   dbs/gettingstarted/gettingstarted
-   dbs/clustersaag/clustersaag
-   dbs/clustersdam/clustersdam
-   dbs/patching/patching
-   dbs/sqlmonitoring/sqlmonitoring
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Hybrid Cloud EUC
-   :name: _hybrideuc
-   :hidden:
-
-   euc/gettingstarted/gettingstarted
-   euc/expand/expand
-   euc/runbook/runbook
-   euc/secure/secure
+.. title:: Nutanix DevOps Bootcamp
 
 .. toctree::
    :maxdepth: 2
@@ -78,20 +32,6 @@
 
 .. .. image:: images/welcome.png
    :align: center
-
-**Welcome!** This year we're celebrating how we power customer use cases by exposing you to exciting new hybrid cloud use cases enabled by our core platform, our portfolio products, and Nutanix Clusters on AWS. Here's a quick look at the available labs:
-
-   - **Hybrid Cloud IaaS**
-
-      Take self-service to the next level with Nutanix ServiceNow integrations. Configure self-service VM provisioning across your multi-cloud environment with ServiceNow and Calm. Secure, protect, and migrate workloads with Flow and Leap. Automatically remediate performance issues with ServiceNow and Prism X-Play.
-
-   - **Hybrid Cloud Database Management**
-
-      Provision, clone, patch, and monitor Microsoft SQL Server across multiple clouds with Nutanix Era and Prism Ultimate.
-
-   - **Hybrid Cloud EUC**
-
-      Find out how you can go from hundreds to thousands of Citrix Desktops in hours versus weeks. Use Calm Runbooks to build powerful, repeatable automation to intelligently provision new desktops. Secure your desktop environment with Flow's VDI Policy.
 
    - **Containerizing Apps and CI/CD**
 
